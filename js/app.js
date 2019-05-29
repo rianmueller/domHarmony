@@ -84,7 +84,7 @@ otherAgeBox[1].innerHTML = '68';
  //div with class anem of Motto
 
  var myImg = document.getElementsByClassName('other');
- myImg[2].src = 'https://images.app.goo.gl/itsZZsoSfCKXagWD8';
+ myImg[2].src = 'https://i.pinimg.com/736x/d7/c0/6c/d7c06c7880e57440d11129e36bd4ff0b--nipon-japan-travel.jpg';
 
  var myFirstName = document.getElementsByClassName('firstName');
  myFirstName[2].innerHTML = 'Rian Mueller';
